@@ -1,4 +1,4 @@
-Feature: Search feature
+Feature: Sign in and search
 
   Scenario: As a valid user I can search in my app
     Then get started
